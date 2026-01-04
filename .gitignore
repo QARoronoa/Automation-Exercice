@@ -1,0 +1,55 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+*.env
+*.venv
+
+# === PyCharm / JetBrains ===
+.idea/
+*.iml
+
+# === Allure Reports ===
+allure-results/
+allure-report/
+reports/
+*.json
+*.xml
+
+# === Pytest & Logs ===
+.cache/
+*.log
+*.tmp
+*.out
+
+# === System Files ===
+.DS_Store
+Thumbs.db
+
+# === Local configurations ===
+*.ini
+config.ini
+properties.ini
+*.cfg
+# Si tu veux garder ton properties.ini dans Git, retire cette ligne ↑
+
+# === Windows junk ===
+desktop.ini
+
+# === Images / Fichiers temporaires ===
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+
+# === Miscellaneous ===
+*.bak
+*.swp
+*.swo
