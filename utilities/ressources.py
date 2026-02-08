@@ -3,3 +3,4 @@ class apiRessources :
     brandList = '/api/brandsList'
     searchProduct = '/api/searchProduct'
     loginValid = '/api/verifyLogin'
+    createAccount = '/api/createAccount'
