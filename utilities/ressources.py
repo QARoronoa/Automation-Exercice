@@ -4,3 +4,5 @@ class apiRessources :
     searchProduct = '/api/searchProduct'
     loginValid = '/api/verifyLogin'
     createAccount = '/api/createAccount'
+    deleteAccount = '/api/deleteAccount'
+    updateAccount = '/api/updateAccount'
