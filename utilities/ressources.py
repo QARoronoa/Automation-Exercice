@@ -6,3 +6,4 @@ class apiRessources :
     createAccount = '/api/createAccount'
     deleteAccount = '/api/deleteAccount'
     updateAccount = '/api/updateAccount'
+    userdetailAccount = '/api/getUserDetailByEmail'
